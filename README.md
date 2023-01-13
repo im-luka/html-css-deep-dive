@@ -1,4 +1,4 @@
-# 📄 HTML & CSS DEEP DIVE
+# 📄 HTML & CSS Deep Dive
 
 *Learning every single thing about HTML & CSS by following MDN docs.  
 Going to post resources here.*
